@@ -1,7 +1,7 @@
 # Google Analytics for Apple TV's TVJS JavaScript Runtime
 google_analytics.js provides Google Analytics support for Apple TV's
 TVJS JavaScript runtime. It uses the Google Analytics
-(Measurement Protocol)[https://developers.google.com/analytics/devguides/collection/protocol/v1/]
+[Measurement Protocol](https://developers.google.com/analytics/devguides/collection/protocol/v1/)
 to provide a mobile SDK like API to track analytics events and screen views.
 
 Your Google Analytics project should be setup as a mobile application, not a web site. However,
