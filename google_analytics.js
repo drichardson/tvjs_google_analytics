@@ -1,7 +1,6 @@
 // Google Analytics for Apple TV TVJS
 // Copyright 2015 Doug Richardson 
 // Released under MIT license.
-// https://developers.google.com/analytics/devguides/collection/protocol/v1/
 (function(root) {
     "use strict"
 
